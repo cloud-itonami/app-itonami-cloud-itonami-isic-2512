@@ -15,8 +15,7 @@ cylinders, process vessels, and central-heating boilers of a kind used
 for storage or manufacturing purposes. This is distinct from
 `cloud-itonami-isic-2513` (Manufacture of steam generators, except
 central heating hot water boilers), a distinct boiler/steam-generator
-product family; from `cloud-itonami-isic-2591` (Forging, pressing,
-stamping and roll-forming of metal), a distinct heavy metal-forming
+product family; from `cloud-itonami-isic-2591` (ISIC 2591), a distinct heavy metal-forming
 process, not welded-tank fabrication; and from `cloud-itonami-isic-2511`
 (Manufacture of structural metal products), a distinct structural-steel
 product family. This actor's own hazard profile centers on weld-fume

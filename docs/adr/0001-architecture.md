@@ -60,8 +60,7 @@ structural-steel product family), `cloud-itonami-isic-2513`
 (Manufacture of steam generators, except central heating hot water
 boilers -- `:spec` in this fleet as of this ADR, a distinct boiler/
 steam-generator product family upstream of this shop's own tank/
-reservoir/container scope), and `cloud-itonami-isic-2591` (Forging,
-pressing, stamping and roll-forming of metal -- `:implemented`, a
+reservoir/container scope), and `cloud-itonami-isic-2591` (ISIC 2591 -- `:implemented`, a
 distinct heavy metal-forming process, not welded-tank fabrication).
 ISIC 2512 is deliberately the WELDED tank/reservoir/container class: a
 metal-fabrication shop that welds and forms sheet/plate metal into
