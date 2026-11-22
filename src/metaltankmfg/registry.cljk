@@ -33,8 +33,7 @@
   distinct from `cloud-itonami-isic-2513` (Manufacture of steam
   generators, except central heating hot water boilers -- boiler/
   steam-generator equipment upstream of this shop's own tank/reservoir/
-  container scope), `cloud-itonami-isic-2591` (Forging, pressing,
-  stamping and roll-forming of metal -- a distinct heavy metal-forming
+  container scope), `cloud-itonami-isic-2591` (ISIC 2591 -- a distinct heavy metal-forming
   process, not welded-tank fabrication), and `cloud-itonami-isic-2511`
   (Manufacture of structural metal products -- a distinct structural-
   steel product family). This actor's own hazard profile centers on
